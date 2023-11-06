@@ -38,6 +38,8 @@ During the data analysis, the following operations were conducted:
 4. Comparison of car prices with automatic and manual transmissions for the top 10 brands.
 - Price vs transmission type
 ![](/images/top10_car_price_transmission_type.png)
+- Number of sold transmission type by brand
+![](/images/top10_count_transmission_type.png)
 5. Analysis of the popularity of different fuel types and their market share.
 - Most purchased fuel type for a given brand
 ![](/images/top10brand_car_sold_by_fuel_type.png)
