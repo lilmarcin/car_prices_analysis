@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Car prices analysis
 
 ## Project Description
