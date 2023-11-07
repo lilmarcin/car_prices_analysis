@@ -87,6 +87,7 @@ In conclusion, we have 199 772 records
 
 > Most purchased fuel type for a given brand
 ![](/images/top10brand_car_sold_by_fuel_type.png)
+
 |         | Fuel type       | % of sold   |
 | ------- | --------------- | ------------|
 | 1       | Gasoline        |   47.35     |
@@ -96,7 +97,7 @@ In conclusion, we have 199 772 records
 | 5       | Gasoline + CNG  |    0.03     |
 | 6       | Hydrogen        |    0.00     |
 | 7       | Ethanol         |    0.00     |
-|-----------------------------------------|	
+
 
 > Average car price by fuel type
 ![](/images/top10_car_price_fuel_type.png)
@@ -126,6 +127,7 @@ Price for Diesel or Gasoline are equal. For hybrid you should pay the most. You 
 
 > Engine power vs engine displacement
 ![](/images/top10brand_engine_power_vs_engine_displacement.png)
+
 | Vehicle_brand   | Power_HP | Displacement_cm3 |
 | --------------- | -------- | -----------------|
 | Audi            | 195.0    | 2218.0           |
@@ -138,7 +140,8 @@ Price for Diesel or Gasoline are equal. For hybrid you should pay the most. You 
 | Toyota          | 123.0    | 1745.0           |
 | Volkswagen      | 131.0    | 1744.0           |
 | Škoda           | 125.0    | 1553.0           |
-|-----------------------------------------------|
+
+
 - the greater the engine power, the greater the engine displacement
 - for Mercedes-Benz, Audi and BMW, the average engine power is 200 HP and engine displacement above 2200 cm^3
 - for Ford, the average engine power is 141 KM, and engine displacement  ~1800 cm^3
