@@ -147,19 +147,30 @@ Price for Diesel or Gasoline are equal. For hybrid you should pay the most. You 
 - for Mercedes-Benz, Audi and BMW, the average engine power is 200 HP and engine displacement above 2200 cm^3
 - for Ford, the average engine power is 141 KM, and engine displacement  ~1800 cm^3
 - for Opel, Peugeot, Renault, Toyota, Volkswagen and Škoda, the average engine power is ~120 HP and engine displacement around 1500-1800 cm^3
-7. Conclusion
-For each of the top brands, the most frequently sold car is a new car from 2020/2021 year.
-```
-The most sold car from Volkswagen is T-Cross: 98900.0 PLN, 2021 year, New, Gasoline, capacity 999.0cm^3, 110.0 HP, mileage 5.0 km, Automatic transmission, white colour.
-The most sold car from Opel is Astra: 67990.0 PLN, 2019 year, Used, Gasoline, capacity 1399.0cm^3, 150.0 HP, mileage 61000.0 km, Manual transmission, gray colour.
-The most sold car from BMW is Seria 3: 220100.0 PLN, 2020 year, New, Diesel, capacity 1995.0cm^3, 190.0 HP, mileage 5.0 km, Automatic transmission, white colour.
-The most sold car from Audi is A3: 116400.0 PLN, 2021 year, New, Gasoline, capacity 999.0cm^3, 110.0 HP, mileage 5.0 km, Automatic transmission, black colour.
-The most sold car from Ford is EcoSport: 82900.0 PLN, 2021 year, New, Gasoline, capacity 998.0cm^3, 125.0 HP, mileage 5.0 km, Manual transmission, silver colour.
-The most sold car from Mercedes-Benz is GLC: 349000.0 PLN, 2019 year, New, Gasoline, capacity 2996.0cm^3, 367.0 HP, mileage 1.0 km, Automatic transmission, white colour.
-The most sold car from Renault is Clio: 34700.0 PLN, 2016 year, Used, Gasoline, capacity 1149.0cm^3, 73.0 HP, mileage 96638.0 km, Manual transmission, white colour.
-The most sold car from Toyota is Auris: 50000.0 PLN, 2017 year, Used, Hybrid, capacity 1798.0cm^3, 135.0 HP, mileage 213560.0 km, Automatic transmission, white colour.
-The most sold car from Škoda is Octavia: 110499.0 PLN, 2021 year, New, Gasoline, capacity 1498.0cm^3, 150.0 HP, mileage 10.0 km, Manual transmission, black colour.
-The most sold car from Peugeot is 1007: 8500.0 PLN, 2006 year, Used, Gasoline, capacity 1587.0cm^3, 109.0 HP, mileage 144000.0 km, Automatic transmission, blue colour.
-```
+
+7. Conclusions
+
+- Condition: New - The most commonly sold cars are new models, indicating the popularity of new vehicles among consumers. Opel, Renault, Toyota sold 6-7 years old used cars. Only Peugeot sold moslty 15 years old car.
+- Fuel Type: Gasoline - Gasoline cars make up the majority of sales among the top 10 brands, likely due to the popularity of gasoline engines in Poland. Only BMW sold more diesels and Toyota sold hybrids.
+- Engine Displacement: Engine variants with a displacement ranging from approximately 1000 cm^3 to 2000 cm^3 dominate the sales. This range encompasses most passenger cars.
+- Horsepower: Engine power options ranging from approximately 100 HP to 200 HP are the most popular. Only Mercedes-Benz sold cars with more than 350HP.
+- Mileage: The mileage typically averages around 5 km, suggesting that primarily new cars are being offered.
+- Transmission: Automatic is the most frequently chosen type of transmission.
+- Color: colors are subdued, such as white, black and gray. Only the Peugeot is in blue color
+
+
+| Vehicle Brand     | Model   | Price (PLN) | Year | Condition | Fuel Type | Displacement (cm^3) | Power (HP) | Mileage (km) | Transmission  | Colour   |
+|-------------------|---------|-------------|------|-----------|-----------|----------------------|------------|--------------|--------------|----------|
+| Volkswagen        | T-Cross | 98900.0     | 2021 | New       | Gasoline  | 999.0                | 110.0      | 5.0          | Automatic    | White    |
+| Opel              | Astra   | 67990.0     | 2019 | Used      | Gasoline  | 1399.0               | 150.0      | 61000.0      | Manual       | Gray     |
+| BMW               | Seria 3 | 220100.0    | 2020 | New       | Diesel    | 1995.0               | 190.0      | 5.0          | Automatic    | White    |
+| Audi              | A3      | 116400.0    | 2021 | New       | Gasoline  | 999.0                | 110.0      | 5.0          | Automatic    | Black    |
+| Ford              | EcoSport| 82900.0     | 2021 | New       | Gasoline  | 998.0                | 125.0      | 5.0          | Manual       | Silver   |
+| Mercedes-Benz     | GLC     | 349000.0    | 2019 | New       | Gasoline  | 2996.0               | 367.0      | 1.0          | Automatic    | White    |
+| Renault           | Clio    | 34700.0     | 2016 | Used      | Gasoline  | 1149.0               | 73.0       | 96638.0      | Manual       | White    |
+| Toyota            | Auris   | 50000.0     | 2017 | Used      | Hybrid    | 1798.0               | 135.0      | 213560.0     | Automatic    | White    |
+| Škoda             | Octavia | 110499.0    | 2021 | New       | Gasoline  | 1498.0               | 150.0      | 10.0         | Manual       | Black    |
+| Peugeot           | 1007    | 8500.0      | 2006 | Used      | Gasoline  | 1587.0               | 109.0      | 144000.0     | Automatic    | Blue     |
+
 
 
