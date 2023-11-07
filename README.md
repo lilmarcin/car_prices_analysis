@@ -148,5 +148,18 @@ Price for Diesel or Gasoline are equal. For hybrid you should pay the most. You 
 - for Ford, the average engine power is 141 KM, and engine displacement  ~1800 cm^3
 - for Opel, Peugeot, Renault, Toyota, Volkswagen and Škoda, the average engine power is ~120 HP and engine displacement around 1500-1800 cm^3
 7. Conclusion
+For each of the top brands, the most frequently sold car is a new car from 2020/2021 year.
+```
+The most sold car from Volkswagen is T-Cross: 98900.0 PLN, 2021 year, New, Gasoline, capacity 999.0cm^3, 110.0 HP, mileage 5.0 km, Automatic transmission, white colour.
+The most sold car from Opel is Astra: 67990.0 PLN, 2019 year, Used, Gasoline, capacity 1399.0cm^3, 150.0 HP, mileage 61000.0 km, Manual transmission, gray colour.
+The most sold car from BMW is Seria 3: 220100.0 PLN, 2020 year, New, Diesel, capacity 1995.0cm^3, 190.0 HP, mileage 5.0 km, Automatic transmission, white colour.
+The most sold car from Audi is A3: 116400.0 PLN, 2021 year, New, Gasoline, capacity 999.0cm^3, 110.0 HP, mileage 5.0 km, Automatic transmission, black colour.
+The most sold car from Ford is EcoSport: 82900.0 PLN, 2021 year, New, Gasoline, capacity 998.0cm^3, 125.0 HP, mileage 5.0 km, Manual transmission, silver colour.
+The most sold car from Mercedes-Benz is GLC: 349000.0 PLN, 2019 year, New, Gasoline, capacity 2996.0cm^3, 367.0 HP, mileage 1.0 km, Automatic transmission, white colour.
+The most sold car from Renault is Clio: 34700.0 PLN, 2016 year, Used, Gasoline, capacity 1149.0cm^3, 73.0 HP, mileage 96638.0 km, Manual transmission, white colour.
+The most sold car from Toyota is Auris: 50000.0 PLN, 2017 year, Used, Hybrid, capacity 1798.0cm^3, 135.0 HP, mileage 213560.0 km, Automatic transmission, white colour.
+The most sold car from Škoda is Octavia: 110499.0 PLN, 2021 year, New, Gasoline, capacity 1498.0cm^3, 150.0 HP, mileage 10.0 km, Manual transmission, black colour.
+The most sold car from Peugeot is 1007: 8500.0 PLN, 2006 year, Used, Gasoline, capacity 1587.0cm^3, 109.0 HP, mileage 144000.0 km, Automatic transmission, blue colour.
+```
 
 
