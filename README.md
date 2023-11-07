@@ -58,6 +58,7 @@ Name: Currency, dtype: int64
 In conclusion, we have 199 772 records
 5. Analysis of relationships between different features, such as prices, brands, engine power, engine displacement, production year, etc.
 > Top selling brands
+
 |         | Brand           | Number of sold    |
 | ------- | --------------- | ----------------- |
 | 1       | Volkswagen      | 17,778  (8,90%)   |
@@ -70,7 +71,7 @@ In conclusion, we have 199 772 records
 | 8       | Toyota          | 10,081  (5,04%)   |
 | 9       | Škoda           | 10,024  (5,02%)   |
 | 10      | Peugeot         | 8,843   (4,44%)   | 
-|-----------------------------------------------|	
+	
 ![](/images/sales_number_brands.png)
 
 > Average price for a given brand
