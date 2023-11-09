@@ -41,7 +41,7 @@ These rows has small amount of nulls, and null data with nulls will be trimmed (
 2. See the data describe
 `df.describe().round(2)`
 ![](/images/data_describe.png)
-- Średnia cena auta wynosi 61 000 PLN, średni rok produkcji wynosi 2012, średni przebieg to 151 000 km, średnia moc silnika to 150 KM, a pojemność 1882 cm^3.
+- The average price of the car is 61.000 PLN, the average year of production is 2012, the average mileage is 151.000km, the average engine power is 150HP and the displacement is 1.882cm^3
 
 3. Some prices are in EUR, so we need to exchange EUR to PLN (1 EUR = 4.46 PLN)
 `print(df['Currency'].value_counts())`
@@ -115,7 +115,7 @@ Price for Diesel or Gasoline are equal. For hybrid you should pay the most. You 
 
 6. Correlation matrix - relationships between variables
 - Price are mostly correlated with production year, Power_HP and displacement_cm3 (which is correlated with horse power)
-![](/images/corr_matrix)
+![](/images/corr_matrix.png)
 
 > Price vs year of production for a given brand
 ![](/images/top10brand_price_vs_year_production.png)ear of production
