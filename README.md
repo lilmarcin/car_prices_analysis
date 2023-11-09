@@ -150,14 +150,8 @@ Price for Diesel or Gasoline are equal. For hybrid you should pay the most. You 
 
 7. Conclusions
 
-- Condition: New - The most commonly sold cars are new models, indicating the popularity of new vehicles among consumers. Opel, Renault, Toyota sold 6-7 years old used cars. Only Peugeot sold moslty 15 years old car.
-- Fuel Type: Gasoline - Gasoline cars make up the majority of sales among the top 10 brands, likely due to the popularity of gasoline engines in Poland. Only BMW sold more diesels and Toyota sold hybrids.
-- Engine Displacement: Engine variants with a displacement ranging from approximately 1000 cm^3 to 2000 cm^3 dominate the sales. This range encompasses most passenger cars.
-- Horsepower: Engine power options ranging from approximately 100 HP to 200 HP are the most popular. Only Mercedes-Benz sold cars with more than 350HP.
-- Mileage: The mileage typically averages around 5 km, suggesting that primarily new cars are being offered.
-- Transmission: Automatic is the most frequently chosen type of transmission.
-- Color: colors are subdued, such as white, black and gray. Only the Peugeot is in blue color
 
+> Most sold model by top 10 brand
 
 | Vehicle Brand     | Model   | Price (PLN) | Year | Condition | Fuel Type | Displacement (cm^3) | Power (HP) | Mileage (km) | Transmission  | Colour   |
 |-------------------|---------|-------------|------|-----------|-----------|----------------------|------------|--------------|--------------|----------|
@@ -172,5 +166,31 @@ Price for Diesel or Gasoline are equal. For hybrid you should pay the most. You 
 | Škoda             | Octavia | 110499.0    | 2021 | New       | Gasoline  | 1498.0               | 150.0      | 10.0         | Manual       | Black    |
 | Peugeot           | 1007    | 8500.0      | 2006 | Used      | Gasoline  | 1587.0               | 109.0      | 144000.0     | Automatic    | Blue     |
 
+- New models (from 2021) are sold most often. mainly gasoline cars dominates. Toyota sold the most Hybrid cars.
+- Mileage: Due to new cars, mileage is low.
+- Transmission: mostly automatic.
+- Colors are subdued, white, gray and black. Only Peugeot sold the most blue cars.
+- There is a tendency to buy economical cars that consume little fuel due to their small capacity and engine power. Engine displacement is from 1000 to 1700 cm^3 and engine power is 110-150 HP.
 
+> Average sold car by top 10 brand
 
+| Vehicle Brand     | Price (PLN) | Year | Condition | Fuel Type | Displacement (cm^3) | Power (HP) | Mileage (km) | Transmission | Colour   |
+|-------------------|-------------|------|-----------|-----------|---------------------|------------|--------------|--------------|----------|
+| Volkswagen        | 51 378      | 2011 | Used      | Diesel    | 1744                | 131        | 168 461      | Manual       | Black    |
+| Opel              | 32 006      | 2011 | Used      | Gasoline  | 1602                | 123        | 61 000       | Manual       | Silver   |
+| BMW               | 90 350      | 2012 | Used      | Diesel    | 2325                | 209        | 155 629      | Automatic    | Black    |
+| Audi              | 84 623      | 2011 | Used      | Diesel    | 2218                | 195        | 166 426      | Automatic    | Black    |
+| Ford              | 46 398      | 2012 | Used      | Diesel    | 1794                | 141        | 144 353      | Manual       | Black    |
+| Mercedes-Benz     | 99 147      | 2011 | Used      | Diesel    | 2478                | 210        | 150 714      | Automatic    | Black    |
+| Renault           | 34 567      | 2012 | Used      | Gasoline  | 1519                | 116        | 137 445      | Manual       | Black    |
+| Toyota            | 49 117      | 2012 | Used      | Gasoline  | 1745                | 123        | 127 666      | Manual       | Silver   |
+| Škoda             | 53 476      | 2014 | Used      | Gasoline  | 1552                | 131        | 125 138      | Manual       | Black    |
+| Peugeot           | 40 714      | 2012 | Used      | Diesel    | 1593                | 125        | 138 303      | Manual       | Black    |
+
+- Condition: Used - The most commonly sold cars are 10 years old models. The average price is ~60 000 PLN.
+- Fuel Type: in the case of gasoline and diesel, it is about equal in the number of cars sold
+- Engine Displacement: Engine variants with a displacement ranging from approximately 1500 cm^3 to 1800 cm^3 dominate the sales. This range encompasses most passenger cars. For Audi, BMW and Mercedes-Benz displacement is around 2300 cm^3.
+- Horsepower: Engine power options ranging from approximately 120 HP to 140 HP are the most popular. Only Mercedes-Benz, Audi and BMW sold cars with more than 200 HP.
+- Mileage: The mileage typically averages around 125 000 km, so it is pretty good for 10 years old cars.
+- Transmission: Manual is the most frequently chosen type of transmission. For cars with over than 190 HP, people buy automatic transmission.
+- Color:  Dominant color is black, only silver is for Toyota and Opel.
